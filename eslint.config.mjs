@@ -31,6 +31,7 @@ export default [
       'no-shadow': 'off',
       'import/extensions': 'off',
       'import/no-extraneous-dependencies': 'off',
+      '@typescript-eslint/no-unused-vars': 'off',
       'no-underscore-dangle': 'off',
       'i18n/no-greek-character': 'warn',
       'i18n/no-japanese-character': 'warn',
